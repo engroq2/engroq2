@@ -5,6 +5,7 @@
   <a href="https://instagram.com/engroq2"><img height="30" src="https://img.shields.io/badge/Instagram-engroq2-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/engroq2"><img height="30" src="https://img.shields.io/badge/X-engroq2-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/engroq2/"><img height="30" src="https://img.shields.io/badge/LinkedIn-engroq2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:engroq2@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-engroq2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -18,6 +19,7 @@ I'm currently learning **Python** and **C++**, and I enjoy building small projec
 - 🌱 Learning Python and C++
 - 🤖 Building Telegram bots
 - 📫 Reach me on Telegram: [@engroq2](https://t.me/engroq2)
+- ✉️ Email: [engroq2@gmail.com](mailto:engroq2@gmail.com)
 
 ---
 
@@ -45,3 +47,10 @@ A Telegram bot built with Python and aiogram, featuring forced channel subscript
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=engroq2&show_icons=true&theme=radical">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engroq2&layout=compact&theme=radical">
+</p>
+
+---
+
+### ⭐ Stargazers
+
+[![Stargazers repo roster for @engroq2/my-telegram-botRoq](https://reporoster.com/stars/engroq2/my-telegram-botRoq)](https://github.com/engroq2/my-telegram-botRoq/stargazers)
