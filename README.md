@@ -9,7 +9,7 @@
   <a href="https://www.threads.net/@engroq2"><img height="30" src="https://img.shields.io/badge/Threads-engroq2-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
   <a href="https://www.youtube.com/@engroq2"><img height="30" src="https://img.shields.io/badge/YouTube-engroq2-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send/?text&username=engroq2&type=username&app_absent=0"><img height="30" src="https://img.shields.io/badge/WhatsApp-engroq2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="mailto:engroq2@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-engroq2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:farouq.algohary@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-farouq.algohary@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 ---
 
