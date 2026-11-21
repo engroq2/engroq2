@@ -22,7 +22,7 @@ I'm currently learning **Python** and **C++**, and I enjoy building small projec
 - 🌱 Learning Python and C++
 - 🤖 Building Telegram bots
 - 📫 Reach me on Telegram: [@engroq2](https://t.me/engroq2)
-- ✉️ Email: [engroq2@gmail.com](mailto:engroq2@gmail.com)
+- ✉️ Email: [engroq2@gmail.com](mailto:farouq.algohary@gmail.com)
 
 ---
 
